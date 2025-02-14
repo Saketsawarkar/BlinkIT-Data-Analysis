@@ -41,7 +41,7 @@ The analysis provides actionable recommendations for inventory management, marke
 
 
 
-⚙️ ## Technology use:
+ ## Technology use:
 1.Power BI: 💻 Main tool for data visualization and dashboard creation.
 2.Data Sources: Data from Blinkit’s internal sales, outlet, and consumer preference datasets.
 
