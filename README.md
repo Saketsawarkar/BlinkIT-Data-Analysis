@@ -33,7 +33,7 @@ The dashboard focuses on the following primary KPIs:
 6.All Metrics by Outlet Type: Provide a comprehensive view of key metrics by outlet type.
 
 
-🧑‍💼 Business Insights:
+##🧑‍💼 Business Insights:
 
 The dashboard allows stakeholders to quickly identify the outlets and locations that are performing well and optimize resources accordingly. 🏪
 Insights from consumer health data help pinpoint product preferences, creating opportunities for targeted marketing strategies. 📈
@@ -41,7 +41,7 @@ The analysis provides actionable recommendations for inventory management, marke
 
 
 
-⚙️ Technologies Used
+##⚙️ Technologies Used
 1.Power BI: 💻 Main tool for data visualization and dashboard creation.
 2.Data Sources: Data from Blinkit’s internal sales, outlet, and consumer preference datasets.
 
