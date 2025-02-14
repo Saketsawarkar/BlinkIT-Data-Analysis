@@ -33,7 +33,7 @@ The dashboard focuses on the following primary KPIs:
 6.All Metrics by Outlet Type: Provide a comprehensive view of key metrics by outlet type.
 
 
-##🧑‍💼 Business Insights: 
+## Business Insights: 
 
 The dashboard allows stakeholders to quickly identify the outlets and locations that are performing well and optimize resources accordingly. 🏪
 Insights from consumer health data help pinpoint product preferences, creating opportunities for targeted marketing strategies. 📈
